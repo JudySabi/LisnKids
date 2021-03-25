@@ -7,7 +7,7 @@
 ![LisnKids03](/assets/img/03.png)
 ## Player Audio Extract
 
-I used [expo-av](https://docs.expo.io/versions/latest/sdk/av/) work on the project.
+I used [expo-av](https://docs.expo.io/versions/latest/sdk/av/) to work on the player audio.
 
 ![CodeCarbon](/assets/img/carbon01.png)
 ![LisnKids05](/assets/img/05.png)
