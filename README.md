@@ -10,7 +10,6 @@
 I used [expo-av](https://docs.expo.io/versions/latest/sdk/av/) work on the project.
 
 ![CodeCarbon](/assets/img/carbon01.png)
-![LisnKids04](/assets/img/04.png)
 ![LisnKids05](/assets/img/05.png)
 ![LisnKids06](/assets/img/06.png)
 ![LisnKids07](/assets/img/07.png)
