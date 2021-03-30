@@ -1,12 +1,12 @@
 # 🎧 Lisn Kids - React Native Application
 
-####  👋🏼 Welcome to the portfolio dedicated to the Lisn Kids project.
+####  👋🏼 Welcome to the portfolio dedicated to the Lisn Kids project - 👀 __Ask me to look at all the code__
 I personally and mainly worked on the player audio. Then you can add a playlist and custom it as you want, and lisn't  all song with the Night Mode Protected or just classic. 
-> More explications lower... 
+> More explications lower... 👇
 
-Enjoy !
+** Enjoy ! ** 
  
-👀 Ask me to look at all the code
+
 
 ![LisnKids01](/assets/img/01.png)
 ## For who and for what ?
