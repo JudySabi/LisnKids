@@ -4,7 +4,7 @@
 I personally and mainly worked on the player audio. Then you can add a playlist and custom it as you want, and lisn't  all song with the Night Mode Protected or just classic. 
 > More explications lower... 👇
 
-** Enjoy ! ** 
+**Enjoy !** 
  
 
 
