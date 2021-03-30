@@ -11,7 +11,7 @@ Enjoy !
 ![LisnKids01](/assets/img/01.png)
 ## For who and for what ?
 
-🏋🏼‍♂️ I worked with 4 people in 2 weeks for [Angelina Sirba](https://www.linkedin.com/in/angeline-sirba-b8b242150/), the official CEO of [Lisn Kids](https://www.instagram.com/lisnkids_fr/).
+🏋🏼‍♂️ I worked with 4 people in 2 weeks for [Angelina Sirba](https://www.linkedin.com/in/angeline-sirba-b8b242150/), the official CEO of [Lisn Kids](https://www.instagram.com/lisnkids_fr/) and [Boobox](https://www.boobox.io/), a famous website for read a lot of digital books.
 
 👶🏼 The goal was to create an **audible application** for children, with many features, and we didn't know if we could do everything in the allotted time...
  
