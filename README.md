@@ -16,13 +16,24 @@ I personally and mainly worked on the player audio. Then you can add a playlist 
 👶🏼 The goal was to create an **audible application** for children, with many features, and we didn't know if we could do everything in the allotted time...
  
 ![LisnKids02](/assets/img/02.png)
-![LisnKids03](/assets/img/03.png)
+
 ## Player Audio Extract
 
 I used [expo-av](https://docs.expo.io/versions/latest/sdk/av/) to work on the player audio.
 
+### 1. Read all episode 
+![Gif01](/assets/img/playeraudio-serie.gif)
 ![CodeCarbon](/assets/img/carbon01.png)
-![LisnKids05](/assets/img/05.png)
+
+### 2. Then you can add somes episodes in your playlist 
+![Gif02](/assets/img/playlist.gif)
+
+### 3. With your playlist you can go in the night mode protected
+And your children isn't be attracted by the phone, and can't use it.
+![Gif03](/assets/img/nightmodeprotected.gif)
+
+
 ![LisnKids06](/assets/img/06.png)
 ![LisnKids07](/assets/img/07.png)
+![LisnKids03](/assets/img/03.png)
 ![LisnKids08](/assets/img/08.png)
