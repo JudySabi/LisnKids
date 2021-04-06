@@ -8,7 +8,7 @@ I personally and mainly worked on the player audio. Then you can add a playlist 
  
 
 
-![LisnKids01](/assets/img/01.png)
+![LisnKids01](/assets/img/presentation.gif)
 ## For who and for what ?
 
 🏋🏼‍♂️ I worked with 4 people in 2 weeks for [Angelina Sirba](https://www.linkedin.com/in/angeline-sirba-b8b242150/), the official CEO of [Lisn Kids](https://www.instagram.com/lisnkids_fr/) and [Boobox](https://www.boobox.io/), a famous website for read a lot of digital books.
