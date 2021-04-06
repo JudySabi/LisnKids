@@ -43,6 +43,4 @@ And your children isn't attracted by the phone, and can't use it.
 ## Switch in a parent mode for more settings and sign out ✖️
 ![Gif06](/assets/img/deconnexion.gif)
 
-![LisnKids06](/assets/img/06.png)
-![LisnKids03](/assets/img/03.png)
 ![LisnKids08](/assets/img/08.png)
